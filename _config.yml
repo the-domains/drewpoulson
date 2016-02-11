@@ -1,0 +1,28 @@
+name: drewpoulson
+favicon: null
+layout_spectrum: 0.20064107445068657
+typography_spectrum: 0.5030574453994632
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3207093549426645
+  lightness: 0.4599993552546948
+  saturation: 0.5132836226839572
+  rhythmicContrast: 0.20500841760076582
+purpose: []
