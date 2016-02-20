@@ -16,8 +16,8 @@ keywords:
   - smaller
   - fit
 description: 'Just for kids. This super-adjustable 2-speed recumbent trike is made for the smaller folks. It will fit most children 4-12 years old. Shipped as a kit, it is super easy to assemble.'
-datePublished: '2016-02-20T07:55:15.272Z'
-dateModified: '2016-02-20T07:54:37.784Z'
+datePublished: '2016-02-20T07:59:28.939Z'
+dateModified: '2016-02-20T07:59:23.497Z'
 author: []
 related: []
 app_links: []
