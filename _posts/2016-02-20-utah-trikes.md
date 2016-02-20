@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +16,8 @@ keywords:
   - upgrading
   - velotechnik
 description: 'We aim to create the perfect trike for each rider through proper adjustment and customization. No other shop can offer customization the way we do. Period. We powder coat, weld, wire, construct and tune our products in our custom shop. Our catalog is up to date with the newest and best quality trikes available.'
-datePublished: '2016-02-20T07:38:36.870Z'
-dateModified: '2016-02-20T07:34:56.158Z'
+datePublished: '2016-02-20T07:46:02.634Z'
+dateModified: '2016-02-20T07:46:02.246Z'
 author: []
 related: []
 app_links: []
