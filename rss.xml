@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[drewpoulson]]></title>
         <description><![CDATA[drewpoulson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/drewpoulson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 07:34:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 07:39:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/drewpoulson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Utah Trikes]]></title>
+            <description><![CDATA[<article><h1>Utah Trikes</h1><h2>Old Website</h2><p>https://web.archive.org/web/20120504022540/http://www.utahtrikes.com/</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ff4c0f5ee55e5599a3bdd76d234729bd2b8fe4d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/drewpoulson/utah-trikes/index.html</link>
+            <guid isPermaLink="false">941757da-df6a-445e-b605-0a7f0ed3730e</guid>
+            <pubDate>Sat, 20 Feb 2016 07:38:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Trike Universe - The Quality Standard For Today’s Trike Industry]]></title>
             <description><![CDATA[<article><h1>Trike Universe - The Quality Standard For Today’s Trike Industry</h1><p>It’s a fact, more people in more countries around the world rely on Trike Universe for all of their recumbent trike needs. When you want quality products and an extensive selection, trust Trike Universe and get the best selection of trikes to fit your needs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/03b6454ec33db2cfa4fe368577a9c3b54dc2b218.jpg"></article>]]></description>
