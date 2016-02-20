@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
@@ -16,20 +16,20 @@ keywords:
   - upgrading
   - velotechnik
 description: 'We aim to create the perfect trike for each rider through proper adjustment and customization. No other shop can offer customization the way we do. Period. We powder coat, weld, wire, construct and tune our products in our custom shop. Our catalog is up to date with the newest and best quality trikes available.'
-datePublished: '2016-02-20T07:27:59.615Z'
-dateModified: '2016-02-20T07:27:03.772Z'
+datePublished: '2016-02-20T07:38:36.870Z'
+dateModified: '2016-02-20T07:34:56.158Z'
 author: []
 related: []
 app_links: []
 title: Utah Trikes
+sourcePath: _posts/2016-02-20-utah-trikes.md
+published: true
 authors: []
 publisher:
   name: Utahtrikes
   domain: www.utahtrikes.com
   url: 'http://www.utahtrikes.com'
   favicon: 'http://www.utahtrikes.com/favicon.ico'
-sourcePath: _posts/2016-02-20-utah-trikes.md
-published: true
 url: utah-trikes/index.html
 _context: 'http://schema.org'
 _type: MediaObject
