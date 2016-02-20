@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'http://trikeuniverse.com/'
+hasPage: true
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -17,20 +16,21 @@ keywords:
   - smaller
   - fit
 description: 'Just for kids. This super-adjustable 2-speed recumbent trike is made for the smaller folks. It will fit most children 4-12 years old. Shipped as a kit, it is super easy to assemble.'
-datePublished: '2016-02-20T07:34:29.456Z'
-dateModified: '2016-02-20T07:34:24.500Z'
+datePublished: '2016-02-20T07:55:15.272Z'
+dateModified: '2016-02-20T07:54:37.784Z'
 author: []
 related: []
 app_links: []
 title: Trike Universe - The Quality Standard For Today’s Trike Industry
+sourcePath: _posts/2016-02-20-trike-universe-the-quality-standard-for-todays-trike-indu.md
+published: true
 authors: []
 publisher:
   name: Trikeuniverse
   domain: trikeuniverse.com
   url: 'http://trikeuniverse.com'
   favicon: 'http://trikeuniverse.com/favicon.ico'
-sourcePath: _posts/2016-02-20-trike-universe-the-quality-standard-for-todays-trike-indu.md
-published: true
+url: trike-universe-the-quality-standard-for-todays-trike-indu/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
